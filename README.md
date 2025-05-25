@@ -18,8 +18,8 @@ To build an **interactive dashboard** that enables users to:
 ```
 - `data/`: Instructions or scripts to access/download the dataset  
 - `src/` : Core implementation scripts for data processing and visualization  
-- `results/`:Output samples, charts, and generated insights  
-README.md - Project overview and usage instructions  
+- `results/`: Output samples, charts, and generated insights  
+- README.md - Project overview and usage instructions  
 ```
 
 
