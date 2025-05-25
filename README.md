@@ -13,9 +13,10 @@ To build an **interactive dashboard** that enables users to:
 * Compare trends by **gender** and **age group**.
 * Identify key habits linked to higher academic achievement.
 
-## 📁 Project Structure
+📁 Project Structure
+├── data/        # Instructions or scripts to access/download the dataset
+├── src/         # Core implementation scripts for data processing and visualization
+├── results/     # Output samples, charts, and generated insights
+└── README.md    # Project overview and usage instructions
 
-data/ - Instructions or scripts to access/download the dataset
-src/ - Core implementation scripts for data processing and visualization
-results/ - Output samples, charts, and generated insights
 
